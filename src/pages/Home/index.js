@@ -41,7 +41,7 @@ function sortEmployees(){
         </tr>
       ))}
       </table>
-      }
+     }
     </div>
   )
 }
