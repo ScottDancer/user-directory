@@ -38,7 +38,7 @@ No tests available
 
 ## Links
 To Repo: 
-https://scottdancer.github.io/user-directory/
+https://spd-user-directory.herokuapp.com/
  
 
 ## Questions 
